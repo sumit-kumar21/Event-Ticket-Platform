@@ -1,2 +1,2 @@
 # Event-Ticket-Platform
-Build Event Ticket Platform using Java, Spring Boot, Spring Security, MySQL 
+Build Event Ticket Platform using Java, Spring Boot, Spring Security, PostgreSql
